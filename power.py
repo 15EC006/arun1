@@ -1,4 +1,4 @@
-def power(base,exp):
+def power(base,exp:
     if(exp==1):
         return(base)
     if(exp!=1):
