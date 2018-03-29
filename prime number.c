@@ -12,10 +12,10 @@ main() {
   }
 
  if (c == 2) {
-  printf("n is a Prime number");
+  printf("n Yes");
   }
   else {
-  printf("n is not a Prime number");
+  printf("n No");
   }
   return 0;    
 }
