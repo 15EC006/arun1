@@ -9,7 +9,7 @@ int main()
  }
  for(i=0;i<a;i++)
  {
- c=c+(b[i]-1)
+  c=c+(b[i]-1)
  }
-printf("%d",c);
+ printf("%d",c);
 }
